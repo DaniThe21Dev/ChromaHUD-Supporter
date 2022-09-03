@@ -12,7 +12,7 @@ How to use?
 
 - Once minecraft is launched press the right control (ctrl) key, and itll open up a GUI. Enjoy. 
 
-Download
-- https://github.com/DaniThe21Dev/ChromaHUD/releases/tag/cheeto
-Direct Download : https://github.com/DaniThe21Dev/ChromaHUD/releases/download/cheeto/ChromaHUD-3.0_2Cracked.jar
+- Download  https://github.com/DaniThe21Dev/ChromaHUD/releases/tag/cheeto
+
+- Direct Download : https://github.com/DaniThe21Dev/ChromaHUD/releases/download/cheeto/ChromaHUD-3.0_2Cracked.jar
 # ChromaHUD
